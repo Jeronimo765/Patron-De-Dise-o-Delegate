@@ -4,6 +4,6 @@ public class Flash {
     }
 
     public void apagar() {
-        System.out.println("Flash apagado");
+        System.out.println("Flash apagado ");
     }
 }
